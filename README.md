@@ -1,1 +1,1 @@
-0.tcp.ap.ngrok.io:15905# Sever
+0.tcp.ap.ngrok.io:15905
